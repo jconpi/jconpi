@@ -5,7 +5,7 @@
 
 - 📫  How to reach me **jere738@yahoo.com**
 
-![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=JeffreyCA01)
+![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=jconpi)
 
 <h3 align="left">Linkedin & Portfolio:</h3>
 <p align="left">
