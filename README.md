@@ -5,8 +5,6 @@
 
 - 📫  How to reach me **jere738@yahoo.com**
 
-![Last.fm Now Playing](https://lastfm-now-playing-49hq1dogj-jeremys-projects-94107d83.vercel.app/api/lastfm)
-
 <h3 align="left">Linkedin & Portfolio:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jconpi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jconpi" height="30" width="40" /></a>
