@@ -1,7 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jeremy</h1>
-<h3 align="center">
-    Software Developer Junior focused on Odoo
-</h3>
+![Header](./header.png)
 
 - 🔭  I’m currently working on <a href="https://www.smileatbaby.com/" target="_blank">Smileat</a> in Madrid Spain
 
