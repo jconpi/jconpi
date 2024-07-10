@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jeremy</h1>
+mi<h1 align="center">Hi 👋, I'm Jeremy</h1>
 <h3 align="center">
     Software Developer Junior focused on Odoo
 </h3>
@@ -6,9 +6,7 @@
 - 🔭  I’m currently working on <a href="https://www.smileatbaby.com/" target="_blank">Smileat</a> in Madrid Spain
 
 - 📫  How to reach me **jere738@yahoo.com**
-
 <img src="https://lastfm-profile-readme.vercel.app/api/jconpi" width="300" height="150" alt="Currently listening to" style="margin-left: 20px;">
-  
 <h3 align="left">Linkedin & Portfolio:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jconpi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jconpi" height="30" width="40" /></a>
