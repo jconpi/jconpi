@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jeremy</h1>
-<h3 align="center">Software Developer Junior focused on Odoo</h3>
-<p align="left">
-  <img src="https://lastfm-profile-readme.vercel.app/api/jconpi" width="300" height="150" alt="Currently listening to">
-</p>
+<h3 align="center">Software Developer Junior focused on Odoo <img src="https://lastfm-profile-readme.vercel.app/api/jconpi" width="300" height="150" alt="Currently listening to"></h3>
 
 - 🔭  I’m currently working on [Smileat](https://www.smileatbaby.com/) in Madrid Spain
 
