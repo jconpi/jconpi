@@ -58,4 +58,7 @@
     </a>
 </p>
 
-![Currently listening to](https://lastfm-profile-readme.vercel.app/api/jconpi)
+<h3 align="left">Music 🎵:</h3>
+<p align="left">
+  <img src="https://lastfm-profile-readme.vercel.app/api/jconpi" width="300" height="150" alt="Currently listening to">
+</p>
