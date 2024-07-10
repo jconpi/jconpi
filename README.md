@@ -1,4 +1,4 @@
-mi<h1 align="center">Hi 👋, I'm Jeremy</h1>
+<h1 align="center">Hi 👋, I'm Jeremy</h1>
 <h3 align="center">
     Software Developer Junior focused on Odoo
 </h3>
