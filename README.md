@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jeremy</h1>
 <h3 align="center">Software Developer Junior focused on Odoo</h3>
 
-- 🔭  I’m currently working on [Smileat](https://smileat.es) in Madrid Spain
+- 🔭  I’m currently working on ![Smileat](https://smileat.es) in Madrid Spain
 
 - 📫  How to reach me **jere738@yahoo.com**
   
