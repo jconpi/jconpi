@@ -2,7 +2,7 @@
 <h3 align="center">
     Software Developer Junior focused on Odoo
 </h3>
-- 🔭  I’m currently working on <a href="https://www.smileatbaby.com/" target="_blank">Smileat</a> in Madrid Spain
+- 🔭  I’m currently working on <a href="https://www.smileatbaby.com/" target="_blank">Smileat</a> in Madrid Spain <br/>
 - 📫  How to reach me **jere738@yahoo.com** 
 <img src="https://lastfm-profile-readme.vercel.app/api/jconpi" align="right" width="300" height="150" alt="Currently listening to" style="margin-left: 20px;">
 <h3 align="left">Linkedin & Portfolio:</h3>
