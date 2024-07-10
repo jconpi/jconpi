@@ -7,6 +7,8 @@
 
 - 📫  How to reach me **jere738@yahoo.com**
 
+- 📃  <a href="https://jconpi.com/" target="_blank">My Portfolio</a>
+  
 <h3 align="left">Primary Skills:</h3>
 <p align="left"> 
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
