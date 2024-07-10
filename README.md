@@ -61,3 +61,5 @@ mi<h1 align="center">Hi 👋, I'm Jeremy</h1>
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
     </a>
 </p>
+
+[![reimaginedreadme](https://myreadme.vercel.app/api/embed/jconpi?panels=userstatistics,toprepositories,toplanguages,commitgraph)](https://github.com/PressJump/reimaginedreadme)
