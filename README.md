@@ -7,7 +7,7 @@
 
 - 📫  How to reach me **jere738@yahoo.com**
 
-- 📃  <a href="https://jconpi.com/" target="_blank">My Portfolio</a>
+- 📃  Check <a href="https://jconpi.com/" target="_blank">My Portfolio</a>
   
 <h3 align="left">Primary Skills:</h3>
 <p align="left"> 
@@ -33,8 +33,6 @@
 
 <h3 align="left">Music 🎵:</h3>
 <img src="https://lastfm-profile-readme.vercel.app/api/jconpi" width="400" height="80" alt="Currently listening to" />
-
-<img src="https://raw.githubusercontent.com/jconpi/jconpi/output/snake.svg" alt="Snake animation" />
 
 <details>
 <summary>More...</summary>
