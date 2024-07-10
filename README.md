@@ -26,6 +26,11 @@
     </a> 
 </p>
 
+<h3 align="left">Music 🎵:</h3>
+<img src="https://lastfm-profile-readme.vercel.app/api/jconpi" width="400" height="80" alt="Currently listening to" />
+
+<details>
+<summary>More...</summary>
 <h3 align="left">Secondary Skills:</h3>
 <p align="left"> 
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
@@ -52,17 +57,11 @@
     <a href="https://postman.com" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
     </a>
-</p>
-<details>
-  <summary>More...</summary>
-  <h3 align="left">Linkedin & Portfolio:</h3>
+</p>    
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jconpi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jconpi" height="30" width="40" /></a>
-<a href="https://jconpi.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/8743/8743996.png" alt="https://jconpi.com" height="40" width="40" /></a>
 </p>
-
-<h3 align="left">Music 🎵:</h3>
-<img src="https://lastfm-profile-readme.vercel.app/api/jconpi" width="400" height="80" alt="Currently listening to" />
 
 [![reimaginedreadme](https://myreadme.vercel.app/api/embed/jconpi?panels=userstatistics,toprepositories,toplanguages,commitgraph)](https://github.com/PressJump/reimaginedreadme)
 </details>
