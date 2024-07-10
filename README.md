@@ -8,7 +8,7 @@ mi<h1 align="center">Hi 👋, I'm Jeremy</h1>
 - 📫  How to reach me **jere738@yahoo.com**
 
 <h3 align="left">Music 🎵:</h3>
-<img src="https://lastfm-profile-readme.vercel.app/api/jconpi" width="300" height="150" alt="Currently listening to">
+<img src="https://lastfm-profile-readme.vercel.app/api/jconpi" width="300" height="250" alt="Currently listening to">
 
 <h3 align="left">Linkedin & Portfolio:</h3>
 <p align="left">
