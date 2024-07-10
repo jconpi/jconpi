@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jeremy</h1>
 <h3 align="center">Software Developer Junior focused on Odoo</h3>
+<p align="left">
+  <img src="https://lastfm-profile-readme.vercel.app/api/jconpi" width="300" height="150" alt="Currently listening to">
+</p>
 
 - 🔭  I’m currently working on [Smileat](https://www.smileatbaby.com/) in Madrid Spain
 
@@ -56,9 +59,4 @@
     <a href="https://postman.com" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
     </a>
-</p>
-
-<h3 align="left">Music 🎵:</h3>
-<p align="left">
-  <img src="https://lastfm-profile-readme.vercel.app/api/jconpi" width="300" height="150" alt="Currently listening to">
 </p>
