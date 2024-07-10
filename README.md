@@ -36,7 +36,6 @@
 
 <img src="https://raw.githubusercontent.com/jconpi/jconpi/output/snake.svg" alt="Snake animation" />
 
-###
 <details>
 <summary>More...</summary>
 <h3 align="left">Other Skills:</h3>
