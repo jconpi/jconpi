@@ -34,6 +34,9 @@
 <h3 align="left">Music 🎵:</h3>
 <img src="https://lastfm-profile-readme.vercel.app/api/jconpi" width="400" height="80" alt="Currently listening to" />
 
+<img src="https://raw.githubusercontent.com/jconpi/jconpi/output/snake.svg" alt="Snake animation" />
+
+###
 <details>
 <summary>More...</summary>
 <h3 align="left">Other Skills:</h3>
