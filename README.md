@@ -3,9 +3,10 @@
     Software Developer Junior focused on Odoo
 </h3>
 
-- 🔭  I’m currently working on [Smileat](https://www.smileatbaby.com/) in Madrid Spain
-
-- 📫  How to reach me **jere738@yahoo.com**
+<div>
+    <p>- 🔭  I’m currently working on [Smileat](https://www.smileatbaby.com/) in Madrid Spain</p>
+    <p>- 📫  How to reach me **jere738@yahoo.com**</p>
+</div>
 <img src="https://lastfm-profile-readme.vercel.app/api/jconpi" width="300" height="150" alt="Currently listening to" style="margin-left: 20px;">
 <h3 align="left">Linkedin & Portfolio:</h3>
 <p align="left">
