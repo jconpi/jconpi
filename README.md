@@ -63,8 +63,7 @@
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF" alt="jconpi" />
 </a>
 </p>
-    
-[![reimaginedreadme](https://myreadme.vercel.app/api/embed/jconpi?panels=userstatistics,toprepositories,toplanguages,commitgraph)](https://github.com/PressJump/reimaginedreadme)
+  
 </details>
 
 <!-- Badges: https://profilebadges.vercel.app -->
